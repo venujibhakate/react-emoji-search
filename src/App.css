@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App input { 
+  border-radius: 4px;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 95%;
+    height:40px;
+    margin-left:20px;
+}
+
+.filter-emoji{
+  font-size:10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border: 1px solid black;
+  padding:5px; 
+  margin-top:1%;
+}
